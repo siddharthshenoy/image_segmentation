@@ -1,5 +1,7 @@
 # Mask R-CNN for Object Detection and Segmentation
 
+##This is a pre build project 3 year old project which had many deprecated libraries which I tried to mirror and execute 
+
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
 ![Instance Segmentation Sample](assets/street.png)
